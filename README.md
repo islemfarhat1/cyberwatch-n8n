@@ -88,15 +88,15 @@ Send Email Digest
 
 ### Workflow
 
-![Workflow](screenshots/workflow.png)
+![Workflow](workflow.png)
 
 ### Email Report
 
-![Email](screenshots/email.png)
+![Email](email.png)
 
 ### Notion Database
 
-![Notion](screenshots/notion.png)
+![Notion](notion.png)
 
 ---
 
